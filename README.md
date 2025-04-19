@@ -1,6 +1,6 @@
 # Hibernate N+1 Problem Demo
 
-This project demonstrates the **N+1 select problem** in Hibernate and how to resolve it using `JOIN FETCH` or `@EntityGraph`.
+This project demonstrates the **N+1 problem** in Hibernate and how to resolve it using `JOIN FETCH` or `@EntityGraph`.
 
 ---
 
